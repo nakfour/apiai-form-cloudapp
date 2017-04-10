@@ -1,25 +1,8 @@
-# FeedHenry Hello World MBaaS Server
+# RHMAP and API.ai cloudApp
 
-This is a blank 'hello world' FeedHenry MBaaS. Use it as a starting point for building your APIs. 
+This is an RHMAP cloudApp that reads forms associated with a project and sets up api.ai intents and entities.
 
 # Group Hello World API
 
-# hello [/hello]
-
-'Hello world' endpoint.
-
-## hello [POST] 
-
-'Hello world' endpoint.
-
-+ Request (application/json)
-    + Body
-            {
-              "hello": "world"
-            }
-
-+ Response 200 (application/json)
-    + Body
-            {
-              "msg": "Hello world"
-            }
+# helo Endpint
+use HTTP GET to /hello to start the process.
