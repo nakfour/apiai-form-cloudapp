@@ -4,5 +4,5 @@ This is an RHMAP cloudApp that reads forms associated with a project and sets up
 
 # Group Hello World API
 
-# helo Endpint
+# hello Endpint
 use HTTP GET to /hello to start the process.
